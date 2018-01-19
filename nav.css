@@ -7,7 +7,7 @@ a:hover {
     color: rgba(230, 215, 136, 0.459);
 }
 
-.hover a:hover {
+a:hover {
     background-color: rgba(128, 0, 128, 0.534);
 }
 
